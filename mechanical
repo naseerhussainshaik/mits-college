@@ -1,0 +1,29 @@
+mkdir  name
+touch file name
+ls
+vim (store the content)
+rmdir foolder
+cp file folder
+mv file folder
+cd directory
+cd ..
+clear
+cat file name
+history
+git clone url
+ls
+cd repo 
+touch file
+vim fiile
+git add file name
+git commit -m "add the commit"
+git push
+git checkout -b "master"
+touch file
+vim 
+gid add .
+git commit -m "add the commit"
+git remote add origin url
+git remote add origin url
+git push origin master
+
